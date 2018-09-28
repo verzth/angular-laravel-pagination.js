@@ -1,6 +1,6 @@
 {
   "name": "angular-laravel-pagination.js",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Javascript Library for Pagination which is compatible with Laravel pagination json data.",
   "main": "angular-laravel-pagination.js",
   "repository": "https://github.com/verzth/angular-laravel-pagination.js",
